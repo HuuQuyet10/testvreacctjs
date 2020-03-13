@@ -1,0 +1,16 @@
+ul li {
+  list-style: none;
+  margin-left: 10px;
+  display: flex;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px
+}
+ul {
+  background-color: red;
+  display: flex;
+}
+ul li a {
+  text-decoration: none;
+  color: white;
+}
